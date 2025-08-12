@@ -6,6 +6,7 @@
 *.exe
 *.o
 *.so
+.env
 
 # Packages #
 ############
@@ -22,7 +23,7 @@
 
 # Logs and databases #
 ######################
-*.log
+*.logs
 *.sql
 *.sqlite
 
